@@ -1,4 +1,4 @@
-# Kevin-Cookie-Company-Performance-Dashboard
+# Kevin-Cookie-Company-Performance-Dashboard-in-Excel
 
 I am very excited to share another project that I have currently Completed on Excel. The name of my project is "Kevin Cookie Company Performance Dashboard" The main objective of this project is to create a performance dashboard using Excel to analyze profit by market and cookies type, the total no of units of cookies sold each month, and total profit.
 
